@@ -1,6 +1,4 @@
-import {
-  wait
-} from '@nebulario/core-process';
+
 import {
   Publish
 } from '@nebulario/core-plugin-request';
